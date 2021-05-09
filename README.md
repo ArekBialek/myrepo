@@ -1,2 +1,2 @@
-# myrepo1
+# myrepo
 testing my setup
